@@ -1,0 +1,6 @@
+Age, Income, Partisanship, Racial Attitudes and the Trump Vote in 2016
+======================================================================
+
+R code/data/graphs for one of my blog posts [using CCES data to model the likelihood of an individual Trump vote](http://svmiller.com/blog/2017/04/age-income-racism-partisanship-trump-vote-2016/).
+
+> **tl;dr**: Partisanship is a hell of a drug, constituting the largest (duh...) and most precise (duh...) effect in all the models. Cognitive racism has the second largest (estimated) magnitude effect and is the second most precise regression parameter. These interact in interesting ways. Age has a curvilinear effect. Older citizens were more likely to vote for Trump (duh...) but older Boomers and Silent folk in the sample experience a slight decline in their proclivity to vote for Trump. Increasing family income has no overall effect but there is an estimated curvilinear effect in which voters appear to be less likely to vote for Trump as family income increases past the median. Nothing here is terribly novel, per se. Just interesting.
